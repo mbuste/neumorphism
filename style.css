@@ -1,0 +1,13 @@
+body {
+  background: #232121;
+  margin: 0;
+  padding: 40px;
+}
+.raised {
+  background: #232121;
+  height: 100px;
+  width: 100px;
+  border-radius: 5px;
+  box-sizing: border-box;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5), -5px -5px 10px  rgba(255, 255, 255, 0.5);
+}
